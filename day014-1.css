@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;}
+.box1{
+	height:50px;
+	width:100%;
+	background:#cf4646;}
+.box2{
+	height:380px;
+	width:100%;
+	background:rgb(207,70,70);}
+.box3{
+	height:210px;
+	width:1100;
+	margin:60px auto;}
+.box4{
+	height:100%;
+	width:80px;
+	background:#ccc;}
+.box1 .box1-1{
+	width:1100px;
+	height:50px;
+	margin:0px auto;}
+ul{
+	list-style:none;
+	}
+a{
+	text-decoration:none;}
+body{
+	font-family:"微软雅黑";}
+.box1 .logo{
+	float:left;
+	font-size:18px;
+	line-height:50px;}
+.box1 .nav{
+	float:right}
+.box1 a{
+	color:#CCC;
+	}
+.box1 a:hover{
+	color:#FFF;}
+.box1 .nav li{
+	float:left;}
+.box1 .nav a{
+	font-size:14px;
+	line-height:50px;
+	display:block;
+	padding:0px 15px;}
+.box2{
+	height:380px;
+	width:100%;
+	background:rgb(207,70,70);
+	text-align:center;}
+.box2 p{
+	font-size:22px;
+	color:#FFF;
+	margin:10px auto 40px;}
+.box2 .btm{
+	font-size:18px;
+	color:#eee;
+	border:1px #eee solid;
+	}
+.box2 .btm:hover{
+	color:#FFF;
+	border-color:#FFF;}
+.box3 .box11{
+	float:left;
+	padding:0px 10px;
+	margin-top:30px;
+	width:450px;}
+.box3 .box12{
+	float:right;
+	padding:0px 10px;
+	margin-top:30px;
+	width:450px;}
+.box3 .box13{
+	float:left;
+	padding:0px 10px;
+	margin-top:30px;
+	width:450px;}
+.box3 .box14{
+	float:right;
+	padding:0px 10px;
+	margin-top:30px;
+	width:450px;}
+.box3 p{
+	margin-top:10px;}
+.box4 .text{
+	text-align:center;
+	color:#999;}
